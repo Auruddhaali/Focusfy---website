@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "downloadUrl": "https://focusfy-website.vercel.app",
-    "releaseNotes": "Initial release with floating timer and task management."
+    "version": "1.1.0",
+    "downloadUrl": "https://focusfy-timer.vercel.app",
+    "releaseNotes": "New Feature: Voice Assistant! 🎙️ Say 'FocusFy add [task]' to add tasks hands-free."
 }
