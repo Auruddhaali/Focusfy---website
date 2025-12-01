@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "downloadUrl": "https://focusfy-website.vercel.app",
+    "releaseNotes": "Initial release with floating timer and task management."
+}
